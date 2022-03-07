@@ -15,6 +15,7 @@ def psb(z):
         sys.stdout.flush()
         time.sleep(0.03)
 
+os.system('xdg-open https://www.facebook.com/mahdihasan.80')
 
 os.system('clear')
 psb('\x1b[1;32mBANGLADESH 11 DIGIT CLONING START PLEASE WAIT ..........')
