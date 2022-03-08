@@ -91,7 +91,7 @@ id = []
 
 def menu():
     os.system('clear')
-    print logo
+   
     print ''
     print 'AUTHOR   : SR SAIFUR RAHMAN'
     print 'FACEBOOK : facebook.com/mahdi.80808'
