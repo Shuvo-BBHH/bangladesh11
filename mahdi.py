@@ -92,7 +92,7 @@ id = []
 def menu():
     os.system('clear')
    
-    print ''
+    print 'mahdi'
     print 'AUTHOR   : SR SAIFUR RAHMAN'
     print 'FACEBOOK : facebook.com/mahdi.80808'
     print 'GITHUB     : github.com/Shuvo-BBHH'
